@@ -23,13 +23,13 @@ Welcome to News Board, a web application that allows you to stay updated with th
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/news-board-app.git
+   git clone https://github.com/arjunshetty1/React-Live-News.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd news-board-app
+   cd news
    ```
 
 3. Install dependencies:
@@ -44,7 +44,7 @@ Welcome to News Board, a web application that allows you to stay updated with th
    npm run dev
    ```
 
-   The app will be available at `http://localhost:3000`.
+   The app will be available at `http://localhost:5173`.
 
 ## Environment Variables
 
