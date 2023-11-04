@@ -1,4 +1,4 @@
-# News Board App
+# REV NEWS - News App
 
 Welcome to News Board, a web application that allows you to stay updated with the latest news headlines from around the world. This app provides a user-friendly interface to read news articles, view images, and explore additional resources.
 
