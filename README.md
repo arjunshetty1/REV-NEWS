@@ -14,7 +14,6 @@ Welcome to News Board, a web application that allows you to stay updated with th
 - **React:** The app is built using React, a popular JavaScript library for building user interfaces.
 - **NextUI:** NextUI is used for UI components, providing a sleek and responsive design.
 - **Axios:** Axios is utilized for making HTTP requests to fetch news data from the News API.
-- **Framer Motion:** Framer Motion adds smooth animations and transitions to enhance user experience.
 - **Tailwind CSS:** Tailwind CSS is used for styling, providing utility classes for fast and efficient design.
 - **ESLint:** ESLint is used for linting and maintaining code quality.
 
