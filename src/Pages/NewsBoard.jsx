@@ -9,7 +9,7 @@ const NewsBoard = () => {
     const newsapi = async () => {
       try {
         const response = await axios.get(
-          "https://newsapi.org/v2/top-headlines?country=us&apiKey=8ce03905afad4655bc69ed73da7e4a05"
+          "https://mocki.io/v1/d2eb78cf-bf68-4157-83f0-4fbd48c6829d"
         );
         setNews(response.data.articles);
       } catch (error) {
